@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Música",
+    "description": "Preguntas sobre géneros musicales, artistas, bandas y canciones populares."
+  },
+  {
+    "category": "Tecnología y Ciencia",
+    "description": "Preguntas sobre avances cientificos y tecnologicos,dispositivos electronicos y diversos descubrimientos."
+  },
+  {
+    "category": "Politica",
+    "description": "Preguntas sobre politica a nivel mundial,sistemas de gobierno y lideres politicos."
+  },
+  {
+    "category": "Cine y Televisión",
+    "description": "Preguntas sobre peliculas,series de television y programas televisivos."
+  },
+  {
+    "category": "Biología",
+    "description": "Preguntas sobre el cuerpo humano,diversos seres vivos y evolucion."
+  },
+  {
+    "category": "Gastronomia",
+    "description": "Preguntas sobre alimentos, cocina y platos típicos de diferentes culturas."
+  }
+]
