@@ -1,5 +1,4 @@
 package clase7;
-import java.util.Arrays;
 import java.util.Scanner;
 public class main {
     public static void main(String[] args) {
@@ -9,6 +8,7 @@ public class main {
         for (int i = 0; i < numeros.length; i++) {
             System.out.println("Ingrese el numero " + (i+1));
             numeros[i] = read.nextInt();
+            sumatoria+=numeros[i];
         }
         System.out.println("Los numeros ingresados son ");
         for (int i = 0; i < numeros.length; i++) {
@@ -27,9 +27,7 @@ public class main {
         }
         System.out.println("El mayor numero es " + mayor);
         System.out.println("El menor numero es " + menor);
-        for (int i = 0; i < numeros.length;i++){
-            sumatoria+=numeros[i];
-        }
+
         float promedio= (float) sumatoria/numeros.length;
         System.out.println("El promedio es "+ promedio);
     }
